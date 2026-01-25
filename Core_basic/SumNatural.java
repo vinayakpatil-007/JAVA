@@ -8,7 +8,7 @@ public class SumNatural {
         System.out.println("Enter a Number: ");
         n = obj.nextInt();
         for(int i=1; i<=n; i++){
-            sum = sum + i;
+            sum += i;
         }
         System.out.println(sum);
     }
