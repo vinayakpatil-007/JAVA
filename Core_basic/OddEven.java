@@ -1,4 +1,3 @@
-package Core_basic;
 import java.util.Scanner;
 
 public class OddEven {
